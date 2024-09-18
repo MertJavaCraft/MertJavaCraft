@@ -1,4 +1,4 @@
-# 👋 Hey, ich bin Mert! 🇩🇪
+# 👋 Hey, ich bin Mert!🇩🇪
 
 Willkommen auf meinem GitHub-Profil!  
 Ich bin **Frontend-Entwickler in Ausbildung** und begeisterter **Java-Discord-Bot-Entwickler**. Zurzeit arbeite ich daran, meine Fähigkeiten in **HTML**, **CSS** und **JavaScript** auszubauen, um ansprechende und funktionale Benutzeroberflächen zu entwickeln. ✨
