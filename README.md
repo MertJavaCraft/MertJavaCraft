@@ -30,9 +30,9 @@ Aktuell bin ich dabei, meine Fähigkeiten im Frontend-Design zu verbessern, insb
 
 ## 📊 GitHub Statistiken
 
-![Merts GitHub Stats](https://github-readme-stats.vercel.app/api?username=PashaO1&show_icons=true&theme=radical)  
-![Merts GitHub Streak](https://streak-stats.demolab.com?user=PashaO1&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PashaO1&layout=compact&theme=radical)
+![Merts GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertJavaCraft&show_icons=true&theme=radical)  
+![Merts GitHub Streak](https://streak-stats.demolab.com?user=MertJavaCraft&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJavaCraft&layout=compact&theme=radical)
 
 ---
 
