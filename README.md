@@ -17,6 +17,7 @@ Ich bin **Frontend-Entwickler in Ausbildung** und begeisterter **Java-Discord-Bo
   Ich habe schon einige **Discord-Bots** in Java erstellt und lerne stetig dazu!
 - **Lua** ![Lua Badge](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)  
   Lua ist eine meiner bevorzugten Sprachen, wenn es um das Erstellen von schnellen und effizienten Skripten geht!
+- **Python** ![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
