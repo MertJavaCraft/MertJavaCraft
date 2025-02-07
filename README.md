@@ -6,7 +6,7 @@ Ich bin **Frontend-Entwickler in Ausbildung** und begeisterter **Java-Discord-Bo
 ---
 
 ## 🔧 Meine Skills
-
+w
 ### Frontend-Entwicklung:
 - **HTML** ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 - **CSS** ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
